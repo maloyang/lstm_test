@@ -17,7 +17,6 @@
 
 ```
 tensorflow==2.3.0
-numpy==1.19.2
 pandas==1.3.5
 statsmodels==0.12.2
 matplotlib
